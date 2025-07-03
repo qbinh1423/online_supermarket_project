@@ -1,0 +1,1 @@
+backend_api/src/services/image-based/saved_data/product_info.pkl filter=lfs diff=lfs merge=lfs -text
