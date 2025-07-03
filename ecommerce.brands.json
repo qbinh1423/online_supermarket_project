@@ -1,0 +1,1408 @@
+[{
+  "_id": {
+    "$oid": "6841cc49a36a9a6185fce4b4"
+  },
+  "br_name": "Bosch",
+  "br_image": "/uploads/brands/1749142601775_bosch.png",
+  "created_at": {
+    "$date": "2025-06-05T16:56:41.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841cc66a36a9a6185fce4b8"
+  },
+  "br_name": "Carraro",
+  "br_image": "/uploads/brands/1749142630767_carraro.png",
+  "created_at": {
+    "$date": "2025-06-05T16:57:10.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841ccd5a36a9a6185fce4ba"
+  },
+  "br_name": "Casper",
+  "br_image": "/uploads/brands/1749142741609_casper.png",
+  "created_at": {
+    "$date": "2025-06-05T16:59:01.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841cd18a36a9a6185fce4bc"
+  },
+  "br_name": "LG",
+  "br_image": "/uploads/brands/1749142808650_lg.png",
+  "created_at": {
+    "$date": "2025-06-05T17:00:08.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841cd2ea36a9a6185fce4be"
+  },
+  "br_name": "Panasonic",
+  "br_image": "/uploads/brands/1749142830391_panasonic.png",
+  "created_at": {
+    "$date": "2025-06-05T17:00:30.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841d244a36a9a6185fce4c0"
+  },
+  "br_name": "Philips",
+  "br_image": "/uploads/brands/1749144132385_philips.png",
+  "created_at": {
+    "$date": "2025-06-05T17:22:12.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841d24da36a9a6185fce4c2"
+  },
+  "br_name": "Samsung",
+  "br_image": "/uploads/brands/1749144141416_samsung.png",
+  "created_at": {
+    "$date": "2025-06-05T17:22:21.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841d6a6a36a9a6185fce4c4"
+  },
+  "br_name": "Sunhouse",
+  "br_image": "/uploads/brands/1749145254418_sunhouse.png",
+  "created_at": {
+    "$date": "2025-06-05T17:40:54.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6841d7afa36a9a6185fce4c6"
+  },
+  "br_name": "Toshiba",
+  "br_image": "/uploads/brands/1749145519257_toshiba.png",
+  "created_at": {
+    "$date": "2025-06-05T17:45:19.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6848f933bb97029244124889"
+  },
+  "br_name": "Canon",
+  "br_image": "/uploads/brands/1749612851792_canon.png",
+  "created_at": {
+    "$date": "2025-06-11T03:34:11.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d78ec7ed6307f056c6866"
+  },
+  "br_name": "Lufa",
+  "br_image": "/uploads/brands/1749907692888_lufa.png",
+  "created_at": {
+    "$date": "2025-06-14T13:28:12.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d89767ed6307f056c6e59"
+  },
+  "br_name": "Faster",
+  "br_image": "/uploads/brands/1749911926334_faster.png",
+  "created_at": {
+    "$date": "2025-06-14T14:38:46.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d89bd7ed6307f056c6e5b"
+  },
+  "br_name": "Sokimi",
+  "br_image": "/uploads/brands/1749911997186_sokimi.png",
+  "created_at": {
+    "$date": "2025-06-14T14:39:57.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d8a057ed6307f056c6e5d"
+  },
+  "br_name": "Newsun",
+  "br_image": "/uploads/brands/1749912069515_newsun.png",
+  "created_at": {
+    "$date": "2025-06-14T14:41:09.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d8a547ed6307f056c6e5f"
+  },
+  "br_name": "Coocaa",
+  "br_image": "/uploads/brands/1749912148652_coocaa.png",
+  "created_at": {
+    "$date": "2025-06-14T14:42:28.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d90a87ed6307f056c6e61"
+  },
+  "br_name": "Esme",
+  "br_image": "/uploads/brands/1749913768929_esme.png",
+  "created_at": {
+    "$date": "2025-06-14T15:09:28.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d931c7ed6307f056c6f26"
+  },
+  "br_name": "Tiross",
+  "br_image": "/uploads/brands/1749914396022_tiross.png",
+  "created_at": {
+    "$date": "2025-06-14T15:19:56.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684f930617d107a98dc10959"
+  },
+  "br_name": "Airplus",
+  "br_image": "/uploads/brands/1750045446108_airplus.png",
+  "created_at": {
+    "$date": "2025-06-16T03:44:06.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e3c0b512dd2b8ee71999"
+  },
+  "br_name": "Alaska",
+  "br_image": "/uploads/brands/1750262720738_alaska.png",
+  "created_at": {
+    "$date": "2025-06-18T16:05:20.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e3ceb512dd2b8ee7199b"
+  },
+  "br_name": "Aqua",
+  "br_image": "/uploads/brands/1750262734248_aqua.png",
+  "created_at": {
+    "$date": "2025-06-18T16:05:34.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e3d6b512dd2b8ee7199d"
+  },
+  "br_name": "Ariston",
+  "br_image": "/uploads/brands/1750262742138_ariston.png",
+  "created_at": {
+    "$date": "2025-06-18T16:05:42.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e4d9b512dd2b8ee719ad"
+  },
+  "br_name": "Centon",
+  "br_image": "/uploads/brands/1750263001695_centon.png",
+  "created_at": {
+    "$date": "2025-06-18T16:10:01.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e4eab512dd2b8ee719af"
+  },
+  "br_name": "Daikin",
+  "br_image": "/uploads/brands/1750263018277_daikin.png",
+  "created_at": {
+    "$date": "2025-06-18T16:10:18.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e54cb512dd2b8ee719b1"
+  },
+  "br_name": "Darling",
+  "br_image": "/uploads/brands/1750263116288_darling.png",
+  "created_at": {
+    "$date": "2025-06-18T16:11:56.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e55ab512dd2b8ee719b3"
+  },
+  "br_name": "Edifier",
+  "br_image": "/uploads/brands/1750263130270_edifier.png",
+  "created_at": {
+    "$date": "2025-06-18T16:12:10.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e564b512dd2b8ee719b5"
+  },
+  "br_name": "Edison",
+  "br_image": "/uploads/brands/1750263140945_edison.png",
+  "created_at": {
+    "$date": "2025-06-18T16:12:20.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e571b512dd2b8ee719b7"
+  },
+  "br_name": "Electrolux",
+  "br_image": "/uploads/brands/1750263153900_electrolux.png",
+  "created_at": {
+    "$date": "2025-06-18T16:12:33.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e5aeb512dd2b8ee719bb"
+  },
+  "br_name": "Funiki",
+  "br_image": "/uploads/brands/1750263214960_funiki.png",
+  "created_at": {
+    "$date": "2025-06-18T16:13:34.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e68cb512dd2b8ee719bd"
+  },
+  "br_name": "Fushima",
+  "br_image": "/uploads/brands/1750263436167_fushima.png",
+  "created_at": {
+    "$date": "2025-06-18T16:17:16.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e69bb512dd2b8ee719bf"
+  },
+  "br_name": "Hisense",
+  "br_image": "/uploads/brands/1750263451423_hisense.png",
+  "created_at": {
+    "$date": "2025-06-18T16:17:31.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e6a8b512dd2b8ee719c1"
+  },
+  "br_name": "Hitachi",
+  "br_image": "/uploads/brands/1750263464637_hitachi.png",
+  "created_at": {
+    "$date": "2025-06-18T16:17:44.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e6b1b512dd2b8ee719c3"
+  },
+  "br_name": "JBL",
+  "br_image": "/uploads/brands/1750263473812_jbl.png",
+  "created_at": {
+    "$date": "2025-06-18T16:17:53.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e6bfb512dd2b8ee719c5"
+  },
+  "br_name": "Kadeka",
+  "br_image": "/uploads/brands/1750263487384_kadeka.png",
+  "created_at": {
+    "$date": "2025-06-18T16:18:07.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e6d8b512dd2b8ee719c9"
+  },
+  "br_name": "Life 360",
+  "br_image": "/uploads/brands/1750263512530_life360.png",
+  "created_at": {
+    "$date": "2025-06-18T16:18:32.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e6f5b512dd2b8ee719cb"
+  },
+  "br_name": "Oromi",
+  "br_image": "/uploads/brands/1750263541097_oromi.png",
+  "created_at": {
+    "$date": "2025-06-18T16:19:01.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e786b512dd2b8ee719cd"
+  },
+  "br_name": "Rheem",
+  "br_image": "/uploads/brands/1750263686159_rheem.png",
+  "created_at": {
+    "$date": "2025-06-18T16:21:26.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e794b512dd2b8ee719cf"
+  },
+  "br_name": "Sanaky",
+  "br_image": "/uploads/brands/1750263700335_sanaky.png",
+  "created_at": {
+    "$date": "2025-06-18T16:21:40.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e79fb512dd2b8ee719d1"
+  },
+  "br_name": "Senko",
+  "br_image": "/uploads/brands/1750263711846_senko.png",
+  "created_at": {
+    "$date": "2025-06-18T16:21:51.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e7bcb512dd2b8ee719d5"
+  },
+  "br_name": "Sharp",
+  "br_image": "/uploads/brands/1750263740866_sharp.png",
+  "created_at": {
+    "$date": "2025-06-18T16:22:20.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e82db512dd2b8ee719d7"
+  },
+  "br_name": "Soundmax",
+  "br_image": "/uploads/brands/1750263853710_soundmax.png",
+  "created_at": {
+    "$date": "2025-06-18T16:24:13.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e83cb512dd2b8ee719d9"
+  },
+  "br_name": "Sumikura",
+  "br_image": "/uploads/brands/1750263868546_sumikura.png",
+  "created_at": {
+    "$date": "2025-06-18T16:24:28.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e849b512dd2b8ee719db"
+  },
+  "br_name": "Takaipro",
+  "br_image": "/uploads/brands/1750263881864_takaipro.png",
+  "created_at": {
+    "$date": "2025-06-18T16:24:41.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852e857b512dd2b8ee719dd"
+  },
+  "br_name": "Xiaomi",
+  "br_image": "/uploads/brands/1750263895181_xiaomi.png",
+  "created_at": {
+    "$date": "2025-06-18T16:24:55.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540c61f074409cd3a9dd62"
+  },
+  "br_name": "Amazon",
+  "br_image": "/uploads/brands/1750338657260_amazon.png",
+  "created_at": {
+    "$date": "2025-06-19T13:10:57.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540c75f074409cd3a9dd64"
+  },
+  "br_name": "Beurer",
+  "br_image": "/uploads/brands/1750338677488_Beurer.png",
+  "created_at": {
+    "$date": "2025-06-19T13:11:17.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540c86f074409cd3a9dd66"
+  },
+  "br_name": "BioHealth",
+  "br_image": "/uploads/brands/1750338694729_BioHealth.png",
+  "created_at": {
+    "$date": "2025-06-19T13:11:34.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540c90f074409cd3a9dd68"
+  },
+  "br_name": "BonBone",
+  "br_image": "/uploads/brands/1750338704785_bonbone.png",
+  "created_at": {
+    "$date": "2025-06-19T13:11:44.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540d41f074409cd3a9dd6a"
+  },
+  "br_name": "Bosser",
+  "br_image": "/uploads/brands/1750338881688_bosser.png",
+  "created_at": {
+    "$date": "2025-06-19T13:14:41.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540d4ef074409cd3a9dd6c"
+  },
+  "br_name": "B-Well",
+  "br_image": "/uploads/brands/1750338894340_B-Well.png",
+  "created_at": {
+    "$date": "2025-06-19T13:14:54.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540d61f074409cd3a9dd6e"
+  },
+  "br_name": "D&D",
+  "br_image": "/uploads/brands/1750338913760_dd.png",
+  "created_at": {
+    "$date": "2025-06-19T13:15:13.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540d71f074409cd3a9dd70"
+  },
+  "br_name": "FaCare",
+  "br_image": "/uploads/brands/1750338929895_FaCare.png",
+  "created_at": {
+    "$date": "2025-06-19T13:15:29.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540e22f074409cd3a9dd72"
+  },
+  "br_name": "Fujifilm",
+  "br_image": "/uploads/brands/1750339106924_fujifilm.png",
+  "created_at": {
+    "$date": "2025-06-19T13:18:26.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540e83f074409cd3a9dd74"
+  },
+  "br_name": "Hachimed",
+  "br_image": "/uploads/brands/1750339203932_Hachimed.png",
+  "created_at": {
+    "$date": "2025-06-19T13:20:03.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540ef1f074409cd3a9dd76"
+  },
+  "br_name": "Hòa Phát",
+  "br_image": "/uploads/brands/1750339313992_HÃ²a PhÃ¡t.png",
+  "created_at": {
+    "$date": "2025-06-19T13:21:53.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f12f074409cd3a9dd78"
+  },
+  "br_name": "The One - Hòa Phát",
+  "br_image": "/uploads/brands/1750339346946_theonehoaphat.png",
+  "created_at": {
+    "$date": "2025-06-19T13:22:26.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f26f074409cd3a9dd7a"
+  },
+  "br_name": "Homesteam",
+  "br_image": "/uploads/brands/1750339366671_homesteam.png",
+  "created_at": {
+    "$date": "2025-06-19T13:22:46.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f34f074409cd3a9dd7c"
+  },
+  "br_name": "I-sens",
+  "br_image": "/uploads/brands/1750339380875_iSens.png",
+  "created_at": {
+    "$date": "2025-06-19T13:23:00.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f41f074409cd3a9dd7e"
+  },
+  "br_name": "Mediven",
+  "br_image": "/uploads/brands/1750339393592_mediven.png",
+  "created_at": {
+    "$date": "2025-06-19T13:23:13.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f5ef074409cd3a9dd80"
+  },
+  "br_name": "PGM",
+  "br_image": "/uploads/brands/1750339422857_pgm.png",
+  "created_at": {
+    "$date": "2025-06-19T13:23:42.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f67f074409cd3a9dd82"
+  },
+  "br_name": "Rando",
+  "br_image": "/uploads/brands/1750339431909_rando.png",
+  "created_at": {
+    "$date": "2025-06-19T13:23:51.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f85f074409cd3a9dd84"
+  },
+  "br_name": "Thermoskin",
+  "br_image": "/uploads/brands/1750339461394_Thermoskin.png",
+  "created_at": {
+    "$date": "2025-06-19T13:24:21.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540f97f074409cd3a9dd86"
+  },
+  "br_name": "Uni-T",
+  "br_image": "/uploads/brands/1750339479469_Uni-T.png",
+  "created_at": {
+    "$date": "2025-06-19T13:24:39.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68540fa6f074409cd3a9dd88"
+  },
+  "br_name": "ZK Teco",
+  "br_image": "/uploads/brands/1750339494506_zkteco.png",
+  "created_at": {
+    "$date": "2025-06-19T13:24:54.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854103bf074409cd3a9dd8a"
+  },
+  "br_name": "Adidas",
+  "br_image": "/uploads/brands/1750339643607_adidas.png",
+  "created_at": {
+    "$date": "2025-06-19T13:27:23.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68541084f074409cd3a9dd8c"
+  },
+  "br_name": "Casio",
+  "br_image": "/uploads/brands/1750339716602_casio.png",
+  "created_at": {
+    "$date": "2025-06-19T13:28:36.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68542a6ef074409cd3a9ea64"
+  },
+  "br_name": "Omron",
+  "br_image": "/uploads/brands/1750346350084_omron.png",
+  "created_at": {
+    "$date": "2025-06-19T15:19:10.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68542d0ff074409cd3a9ed9d"
+  },
+  "br_name": "Hàng Việt Nam",
+  "br_image": "/uploads/brands/1750347023527_hangvn.png",
+  "created_at": {
+    "$date": "2025-06-19T15:30:23.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68543965f074409cd3a9fda5"
+  },
+  "br_name": "Promix",
+  "br_image": "/uploads/brands/1750350181208_promix.png",
+  "created_at": {
+    "$date": "2025-06-19T16:23:01.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854397ef074409cd3a9fda7"
+  },
+  "br_name": "Kahchan",
+  "br_image": "/uploads/brands/1750350206773_kahchan.png",
+  "created_at": {
+    "$date": "2025-06-19T16:23:26.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68551ebf054b70d3f08c4399"
+  },
+  "br_name": "Kuvings",
+  "br_image": "/uploads/brands/1750408895240_kuvings.png",
+  "created_at": {
+    "$date": "2025-06-20T08:41:35.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68551ece054b70d3f08c439b"
+  },
+  "br_name": "Chefman",
+  "br_image": "/uploads/brands/1750408910342_chefman.png",
+  "created_at": {
+    "$date": "2025-06-20T08:41:50.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68552d05054b70d3f08c51fb"
+  },
+  "br_name": "SereneLife",
+  "br_image": "/uploads/brands/1750412549365_serenelife.png",
+  "created_at": {
+    "$date": "2025-06-20T09:42:29.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68553478054b70d3f08c5f57"
+  },
+  "br_name": "Winci",
+  "br_image": "/uploads/brands/1750414456420_winci.png",
+  "created_at": {
+    "$date": "2025-06-20T10:14:16.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6855402929c9bdde4ce2e20b"
+  },
+  "br_name": "Spring Green Evolution",
+  "br_image": "/uploads/brands/1750417449941_springgreenevolution.png",
+  "created_at": {
+    "$date": "2025-06-20T11:04:09.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6855663b29c9bdde4ce30d38"
+  },
+  "br_name": "Sumika",
+  "br_image": "/uploads/brands/1750427195918_sumika.png",
+  "created_at": {
+    "$date": "2025-06-20T13:46:35.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e0fa4664c0ece68be2e0"
+  },
+  "br_name": "Asia",
+  "br_image": "/uploads/brands/1751179514062_asia.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:14.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1034664c0ece68be2e2"
+  },
+  "br_name": "Mitsubishi",
+  "br_image": "/uploads/brands/1751179523935_mitsubishi.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:23.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e10b4664c0ece68be2e4"
+  },
+  "br_name": "Bose",
+  "br_image": "/uploads/brands/1751179531995_bose.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:31.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1144664c0ece68be2e6"
+  },
+  "br_name": "Vinocave",
+  "br_image": "/uploads/brands/1751179540011_vinocave.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:40.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e11b4664c0ece68be2e8"
+  },
+  "br_name": "Munchen",
+  "br_image": "/uploads/brands/1751179547869_munchen.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:47.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1234664c0ece68be2ea"
+  },
+  "br_name": "Kalpen",
+  "br_image": "/uploads/brands/1751179555833_kalpen.png",
+  "created_at": {
+    "$date": "2025-06-29T06:45:55.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e12b4664c0ece68be2ec"
+  },
+  "br_name": "Bear",
+  "br_image": "/uploads/brands/1751179563034_bear.png",
+  "created_at": {
+    "$date": "2025-06-29T06:46:03.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1384664c0ece68be2ee"
+  },
+  "br_name": "Snow Village",
+  "br_image": "/uploads/brands/1751179576329_snowvillage.png",
+  "created_at": {
+    "$date": "2025-06-29T06:46:16.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e14f4664c0ece68be2f0"
+  },
+  "br_name": "FujiE",
+  "br_image": "/uploads/brands/1751179599475_fujie.png",
+  "created_at": {
+    "$date": "2025-06-29T06:46:39.479Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e15c4664c0ece68be2f2"
+  },
+  "br_name": "Kangaroo",
+  "br_image": "/uploads/brands/1751179612384_kangaroo.png",
+  "created_at": {
+    "$date": "2025-06-29T06:46:52.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1644664c0ece68be2f4"
+  },
+  "br_name": "Coway",
+  "br_image": "/uploads/brands/1751179620768_coway.png",
+  "created_at": {
+    "$date": "2025-06-29T06:47:00.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1794664c0ece68be2f6"
+  },
+  "br_name": "TCL",
+  "br_image": "/uploads/brands/1751179641792_tcl.png",
+  "created_at": {
+    "$date": "2025-06-29T06:47:21.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1804664c0ece68be2f8"
+  },
+  "br_name": "Sony",
+  "br_image": "/uploads/brands/1751179648898_sony.png",
+  "created_at": {
+    "$date": "2025-06-29T06:47:28.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1a44664c0ece68be2fa"
+  },
+  "br_name": "Nagakawa",
+  "br_image": "/uploads/brands/1751179684437_nagakawa.png",
+  "created_at": {
+    "$date": "2025-06-29T06:48:04.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1ac4664c0ece68be2fc"
+  },
+  "br_name": "Midea",
+  "br_image": "/uploads/brands/1751179692342_midea.png",
+  "created_at": {
+    "$date": "2025-06-29T06:48:12.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860e1b44664c0ece68be2fe"
+  },
+  "br_name": "Gree",
+  "br_image": "/uploads/brands/1751179700092_gree.png",
+  "created_at": {
+    "$date": "2025-06-29T06:48:20.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec574664c0ece68be302"
+  },
+  "br_name": "DSB",
+  "br_image": "/uploads/brands/1751182423255_dsb.png",
+  "created_at": {
+    "$date": "2025-06-29T07:33:43.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec5f4664c0ece68be304"
+  },
+  "br_name": "Ricoh",
+  "br_image": "/uploads/brands/1751182431334_ricoh.png",
+  "created_at": {
+    "$date": "2025-06-29T07:33:51.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec6d4664c0ece68be306"
+  },
+  "br_name": "Welko",
+  "br_image": "/uploads/brands/1751182445645_welko.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:05.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec744664c0ece68be308"
+  },
+  "br_name": "Việt Tiệp",
+  "br_image": "/uploads/brands/1751182452832_viettiep.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:12.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec7f4664c0ece68be30a"
+  },
+  "br_name": "Wise Eye",
+  "br_image": "/uploads/brands/1751182463714_wiseeye.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:23.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec874664c0ece68be30c"
+  },
+  "br_name": "Ronald Jack",
+  "br_image": "/uploads/brands/1751182471752_ronaldjack.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:31.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec8d4664c0ece68be30e"
+  },
+  "br_name": "Brother",
+  "br_image": "/uploads/brands/1751182477784_brother.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:37.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec944664c0ece68be310"
+  },
+  "br_name": "Silicon",
+  "br_image": "/uploads/brands/1751182484182_silicon.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:44.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ec9a4664c0ece68be312"
+  },
+  "br_name": "Epson",
+  "br_image": "/uploads/brands/1751182490876_epson.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:50.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860eca04664c0ece68be314"
+  },
+  "br_name": "HP",
+  "br_image": "/uploads/brands/1751182496275_hp.png",
+  "created_at": {
+    "$date": "2025-06-29T07:34:56.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860eca74664c0ece68be316"
+  },
+  "br_name": "Vina Mask",
+  "br_image": "/uploads/brands/1751182503554_vinamask.png",
+  "created_at": {
+    "$date": "2025-06-29T07:35:03.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ecaf4664c0ece68be318"
+  },
+  "br_name": "Medicom",
+  "br_image": "/uploads/brands/1751182511631_medicom.png",
+  "created_at": {
+    "$date": "2025-06-29T07:35:11.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ecbb4664c0ece68be31a"
+  },
+  "br_name": "Oral-B",
+  "br_image": "/uploads/brands/1751182523222_oral-b.png",
+  "created_at": {
+    "$date": "2025-06-29T07:35:23.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ecd64664c0ece68be31c"
+  },
+  "br_name": "Phonak",
+  "br_image": "/uploads/brands/1751182550032_phonak.png",
+  "created_at": {
+    "$date": "2025-06-29T07:35:50.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ece04664c0ece68be31e"
+  },
+  "br_name": "IKEA",
+  "br_image": "/uploads/brands/1751182560509_ikea.png",
+  "created_at": {
+    "$date": "2025-06-29T07:36:00.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ece94664c0ece68be320"
+  },
+  "br_name": "Siemens",
+  "br_image": "/uploads/brands/1751182569820_siemens.png",
+  "created_at": {
+    "$date": "2025-06-29T07:36:09.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ecf04664c0ece68be322"
+  },
+  "br_name": "Tanita",
+  "br_image": "/uploads/brands/1751182576719_tanita.png",
+  "created_at": {
+    "$date": "2025-06-29T07:36:16.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed164664c0ece68be324"
+  },
+  "br_name": "Maxcare",
+  "br_image": "/uploads/brands/1751182614567_maxcare.png",
+  "created_at": {
+    "$date": "2025-06-29T07:36:54.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed224664c0ece68be326"
+  },
+  "br_name": "3M",
+  "br_image": "/uploads/brands/1751182626773_3m.png",
+  "created_at": {
+    "$date": "2025-06-29T07:37:06.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed354664c0ece68be328"
+  },
+  "br_name": "Ogawa",
+  "br_image": "/uploads/brands/1751182645298_ogawa.png",
+  "created_at": {
+    "$date": "2025-06-29T07:37:25.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed6d4664c0ece68be32a"
+  },
+  "br_name": "Lavazza",
+  "br_image": "/uploads/brands/1751182701133_lavazza.png",
+  "created_at": {
+    "$date": "2025-06-29T07:38:21.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed7f4664c0ece68be32c"
+  },
+  "br_name": "Vinacafé",
+  "br_image": "/uploads/brands/1751182719762_vinacafe.png",
+  "created_at": {
+    "$date": "2025-06-29T07:38:39.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed894664c0ece68be32e"
+  },
+  "br_name": "Trung Nguyên",
+  "br_image": "/uploads/brands/1751182729208_trungnguyen.png",
+  "created_at": {
+    "$date": "2025-06-29T07:38:49.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ed954664c0ece68be330"
+  },
+  "br_name": "Nescafé",
+  "br_image": "/uploads/brands/1751182741286_nescafe.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:01.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860eda14664c0ece68be332"
+  },
+  "br_name": "Nespresso",
+  "br_image": "/uploads/brands/1751182753832_nespresso.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:13.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edaa4664c0ece68be334"
+  },
+  "br_name": "Delonghi",
+  "br_image": "/uploads/brands/1751182762885_delonghi.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:22.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edb54664c0ece68be336"
+  },
+  "br_name": "Elmich",
+  "br_image": "/uploads/brands/1751182773426_elmich.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:33.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edc54664c0ece68be338"
+  },
+  "br_name": "A. O. Smith",
+  "br_image": "/uploads/brands/1751182789434_A. O. Smith.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:49.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edcd4664c0ece68be33a"
+  },
+  "br_name": "Karofi",
+  "br_image": "/uploads/brands/1751182797392_karofi.png",
+  "created_at": {
+    "$date": "2025-06-29T07:39:57.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edd54664c0ece68be33c"
+  },
+  "br_name": "Supor",
+  "br_image": "/uploads/brands/1751182805076_supor.png",
+  "created_at": {
+    "$date": "2025-06-29T07:40:05.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860eddf4664c0ece68be33e"
+  },
+  "br_name": "Braun",
+  "br_image": "/uploads/brands/1751182815944_braun.png",
+  "created_at": {
+    "$date": "2025-06-29T07:40:15.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860edf14664c0ece68be340"
+  },
+  "br_name": "Lock&Lock",
+  "br_image": "/uploads/brands/1751182833442_lock&lock.png",
+  "created_at": {
+    "$date": "2025-06-29T07:40:33.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ee174664c0ece68be342"
+  },
+  "br_name": "Bluestone",
+  "br_image": "/uploads/brands/1751182871000_bluestone.png",
+  "created_at": {
+    "$date": "2025-06-29T07:41:11.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ee1c4664c0ece68be344"
+  },
+  "br_name": "Tefal",
+  "br_image": "/uploads/brands/1751182876727_tefal.png",
+  "created_at": {
+    "$date": "2025-06-29T07:41:16.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860ee234664c0ece68be346"
+  },
+  "br_name": "KDK",
+  "br_image": "/uploads/brands/1751182883240_kdk.png",
+  "created_at": {
+    "$date": "2025-06-29T07:41:23.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860f4274664c0ece68be36e"
+  },
+  "br_name": "Thermos",
+  "br_image": "/uploads/brands/1751184423483_thermos.png",
+  "created_at": {
+    "$date": "2025-06-29T08:07:03.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6860f4304664c0ece68be370"
+  },
+  "br_name": "Highlands Coffee",
+  "br_image": "/uploads/brands/1751184432604_highlandscoffee.png",
+  "created_at": {
+    "$date": "2025-06-29T08:07:12.607Z"
+  },
+  "__v": 0
+}]

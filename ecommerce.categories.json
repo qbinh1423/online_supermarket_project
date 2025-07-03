@@ -1,0 +1,1026 @@
+[{
+  "_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_name": "Điện máy",
+  "parent_category_id": null,
+  "cate_description": "Electronic products",
+  "cate_created_at": {
+    "$date": "2025-06-08T09:24:18.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_name": "Đồ gia dụng",
+  "parent_category_id": null,
+  "cate_description": "Electronic products",
+  "cate_created_at": {
+    "$date": "2025-06-08T09:26:08.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_name": "Chăm sóc sức khỏe",
+  "parent_category_id": null,
+  "cate_description": null,
+  "cate_created_at": {
+    "$date": "2025-06-14T06:43:45.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_name": "Trang trí phòng khách",
+  "parent_category_id": null,
+  "cate_description": null,
+  "cate_created_at": {
+    "$date": "2025-06-14T06:43:59.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_name": "Thiết bị văn phòng",
+  "parent_category_id": null,
+  "cate_description": null,
+  "cate_created_at": {
+    "$date": "2025-06-14T06:45:38.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1ba3dc0d9da5098e4ef6"
+  },
+  "cate_name": "Điều hòa",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Làm mát/làm ấm không khí trong phòng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T06:50:11.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1c3adc0d9da5098e4efc"
+  },
+  "cate_name": "Tivi",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Thiết bị giải trí hiển thị hình ảnh và âm thanh sống động.",
+  "cate_created_at": {
+    "$date": "2025-06-14T06:52:42.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1de0dc0d9da5098e4f01"
+  },
+  "cate_name": "Tủ lạnh",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Bảo quản thực phẩm bằng làm lạnh, đông đá giúp thực phẩm vẫn giữ được độ tươi ngon.",
+  "cate_created_at": {
+    "$date": "2025-06-14T06:59:44.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1f2cdc0d9da5098e4f04"
+  },
+  "cate_name": "Máy giặt",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Giặt quần áo tự động",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:05:16.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1f3bdc0d9da5098e4f07"
+  },
+  "cate_name": "Máy lọc không khí",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Loại bỏ bụi, mùi, vi khuẩn trong không khí.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:05:31.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d1f4fdc0d9da5098e4f0a"
+  },
+  "cate_name": "Máy sấy quần áo",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Làm khô quần áo bằng nhiệt.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:05:51.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d235ddc0d9da5098e4f0d"
+  },
+  "cate_name": "Tủ mát",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Bảo quản nước giải khát và thực phẩm ở nhiệt độ mát.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:23:09.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2375dc0d9da5098e4f10"
+  },
+  "cate_name": "Máy hút ẩm",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Giảm độ ẩm trong phòng, tránh ẩm mốc.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:23:33.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d238adc0d9da5098e4f13"
+  },
+  "cate_name": "Máy làm đá viên",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Tạo đá viên nhanh tại nhà.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:23:54.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d26137ed6307f056c65ca"
+  },
+  "cate_name": "Máy rửa chén",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Tự động rửa chén bát sạch sẽ và tiện lợi",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:34:43.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d262b7ed6307f056c65cf"
+  },
+  "cate_name": "Máy nước nóng lạnh",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Cung cấp nước nóng lạnh nhanh chóng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:35:07.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d26697ed6307f056c65ef"
+  },
+  "cate_name": "Tủ chăm sóc quần áo thông minh",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Làm phẳng, sấy, khử mùi quần áo.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:36:09.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d27987ed6307f056c6608"
+  },
+  "cate_name": "Tủ rượu",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Bảo quản rượu ở nhiệt độ lý tưởng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:41:12.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d27a87ed6307f056c660d"
+  },
+  "cate_name": "Loa",
+  "parent_category_id": {
+    "$oid": "684556c27fbbfe5496d3dead"
+  },
+  "cate_description": "Phát âm thanh từ thiết bị điện tử.",
+  "cate_created_at": {
+    "$date": "2025-06-14T07:41:28.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2cdc7ed6307f056c663a"
+  },
+  "cate_name": "Quạt",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Thiết bị làm mát.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:03:40.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2d287ed6307f056c663f"
+  },
+  "cate_name": "Máy xay đa năng",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Xay thịt, sinh tố, gia vị, hạt,...",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:04:56.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2d3f7ed6307f056c6644"
+  },
+  "cate_name": "Máy hút bụi",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Hút bụi bẩn trên sàn nhà và bề mặt khác.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:05:19.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2db17ed6307f056c6649"
+  },
+  "cate_name": "Nồi cơm điện",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Nấu cơm tự động với nhiều chế độ và chế biến nhiều thức ăn khác nhau.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:07:13.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d2dcb7ed6307f056c664e"
+  },
+  "cate_name": "Máy lọc nước",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Lọc nước uống sạch và tiện lợi.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:07:39.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d30a27ed6307f056c667d"
+  },
+  "cate_name": "Máy massage",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Giúp thư giãn cơ thể, giảm đau nhức.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:19:46.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d30af7ed6307f056c6682"
+  },
+  "cate_name": "Cân",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Đo trọng lượng cơ thể.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:19:59.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d30d17ed6307f056c6687"
+  },
+  "cate_name": "Máy đo huyết áp",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Theo dõi huyết áp tại nhà.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:20:33.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d30e97ed6307f056c668c"
+  },
+  "cate_name": "Máy phun sương",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Tạo ẩm cho không khí.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:20:57.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d30f67ed6307f056c6691"
+  },
+  "cate_name": "Máy xông hơi",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Xông mặt hoặc cơ thể.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:21:10.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31027ed6307f056c6696"
+  },
+  "cate_name": "Máy đo độ ẩm",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Kiểm tra độ ẩm không khí.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:21:22.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31157ed6307f056c669b"
+  },
+  "cate_name": "Máy đo đường huyết",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Theo dõi lượng đường trong máu.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:21:41.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d312b7ed6307f056c66a0"
+  },
+  "cate_name": "Sofa",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Ghế dài dùng trong phòng khách.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:22:03.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31417ed6307f056c66a5"
+  },
+  "cate_name": "Bàn",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Nội thất cơ bản cho sinh hoạt và làm việc.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:22:25.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31487ed6307f056c66aa"
+  },
+  "cate_name": "Ghế",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Nội thất cơ bản cho sinh hoạt và làm việc.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:22:32.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31547ed6307f056c66af"
+  },
+  "cate_name": "Gối trang trí",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Gối mềm, dùng để trang trí sofa, giường.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:22:44.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d31617ed6307f056c66b4"
+  },
+  "cate_name": "Kệ tivi",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Kệ để tivi và phụ kiện liên quan.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:22:57.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d316f7ed6307f056c66b9"
+  },
+  "cate_name": "Tranh treo tường",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Dùng để trang trí tường.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:23:11.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d37947ed6307f056c66be"
+  },
+  "cate_name": "Đồng hồ",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Xem giờ, treo tường hoặc để bàn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:49:24.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d37ab7ed6307f056c66c3"
+  },
+  "cate_name": "Giá treo tường",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Kệ hoặc móc treo trang trí hoặc để đồ.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:49:47.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d37e27ed6307f056c66c8"
+  },
+  "cate_name": "Đèn",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Đèn trang trí, đèn ngủ, đèn bàn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:50:42.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d37f87ed6307f056c66cd"
+  },
+  "cate_name": "Cây kiểng",
+  "parent_category_id": {
+    "$oid": "684d1a2fdc0d9da5098e4ef2"
+  },
+  "cate_description": "Cây kiểng trang trí không gian sống.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:51:04.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d38e07ed6307f056c66d2"
+  },
+  "cate_name": "Máy in",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "In văn bản, hình ảnh.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:54:56.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d38ed7ed6307f056c66d7"
+  },
+  "cate_name": "Máy chiếu",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Trình chiếu nội dung lên màn hình lớn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:55:09.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d39027ed6307f056c66dc"
+  },
+  "cate_name": "Máy hủy tài liệu",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Cắt nhỏ giấy tờ.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:55:30.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d397b7ed6307f056c66e5"
+  },
+  "cate_name": "Máy tính bỏ túi",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Tính toán tiện lợi, di động.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:57:31.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d39887ed6307f056c66ea"
+  },
+  "cate_name": "Máy chấm công",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Ghi nhận thời gian làm việc nhân viên.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:57:44.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d399a7ed6307f056c66ef"
+  },
+  "cate_name": "Két sắt",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Lưu trữ tài sản, tài liệu an toàn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:58:02.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d39a67ed6307f056c66f4"
+  },
+  "cate_name": "Máy photocopy",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Sao chép tài liệu.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:58:14.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a017ed6307f056c66f9"
+  },
+  "cate_name": "Máy đóng sách",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Đóng gáy tài liệu thành quyển.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:59:45.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a0e7ed6307f056c66fe"
+  },
+  "cate_name": "Bàn làm việc",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Bàn dùng trong văn phòng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T08:59:58.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a207ed6307f056c6703"
+  },
+  "cate_name": "Ghế văn phòng",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Ghế làm việc có lưng tựa, bánh xe.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:00:16.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a2f7ed6307f056c6708"
+  },
+  "cate_name": "Tủ văn phòng",
+  "parent_category_id": {
+    "$oid": "684d1a92dc0d9da5098e4ef4"
+  },
+  "cate_description": "Lưu trữ hồ sơ, tài liệu.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:00:31.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a817ed6307f056c6713"
+  },
+  "cate_name": "Máy pha cà phê",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Pha cà phê nhanh, tiện lợi.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:01:53.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3a997ed6307f056c6718"
+  },
+  "cate_name": "Lò vi sóng",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Hâm nóng hoặc rã đông thực phẩm.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:02:17.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3aa47ed6307f056c671d"
+  },
+  "cate_name": "Bếp",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Thiết bị nấu ăn như bếp gas, bếp từ,...",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:02:28.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3ab27ed6307f056c6722"
+  },
+  "cate_name": "Lò nướng",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Dùng để nướng bánh, thịt,...",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:02:42.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3bf07ed6307f056c6727"
+  },
+  "cate_name": "Các loại nồi",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Bao gồm nồi inox, gang, chống dính,...",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:08:00.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3c017ed6307f056c672c"
+  },
+  "cate_name": "Nồi chiên không dầu",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Chiên thực phẩm bằng không khí nóng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:08:17.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3c597ed6307f056c6731"
+  },
+  "cate_name": "Nồi lẩu",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Dùng để nấu lẩu tại nhà.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:09:45.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3c677ed6307f056c6736"
+  },
+  "cate_name": "Máy làm kem",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Làm kem lạnh tại nhà.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:09:59.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3c7a7ed6307f056c673b"
+  },
+  "cate_name": "Máy xay cà phê",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Nghiền nhỏ hạt cà phê.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:10:18.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3ce57ed6307f056c6740"
+  },
+  "cate_name": "Bình giữ nhiệt",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Giữ nước nóng, lạnh trong thời gian dài.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:12:05.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3d4c7ed6307f056c6745"
+  },
+  "cate_name": "Đồ vệ sinh",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Dụng cụ làm sạch nhà cửa.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:13:48.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3d587ed6307f056c674a"
+  },
+  "cate_name": "Máy làm sữa chua",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Ủ sữa chua tại nhà.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:14:00.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3d657ed6307f056c674f"
+  },
+  "cate_name": "Dụng cụ pha chế",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Dụng cụ hỗ trợ làm đồ uống.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:14:13.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3d767ed6307f056c6754"
+  },
+  "cate_name": "Máy xay bột",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Xay hạt khô thành bột mịn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:14:30.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3da87ed6307f056c6759"
+  },
+  "cate_name": "Cà phê",
+  "parent_category_id": {
+    "$oid": "684557300e70c5fde67b4e38"
+  },
+  "cate_description": "Nguyên liệu pha chế, đóng gói sẵn, phổ biến và vô cùng thơm ngon.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:15:20.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3dcd7ed6307f056c6766"
+  },
+  "cate_name": "Máy trợ thính",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Hỗ trợ nghe cho người khiếm thính.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:15:57.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3dfe7ed6307f056c676b"
+  },
+  "cate_name": "Máy tăm nước",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Thiết bị tạo nước với kích thước nhỏ làm sạch kẽ răng.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:16:46.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3e1b7ed6307f056c6770"
+  },
+  "cate_name": "Đai nẹp chân tay",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Hỗ trợ xương khớp của tay và chân.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:17:15.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3e257ed6307f056c6775"
+  },
+  "cate_name": "Đai nẹp lưng",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Hỗ trợ xương khớp, cột sống.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:17:25.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3e307ed6307f056c677a"
+  },
+  "cate_name": "Nhiệt kế",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Đo nhiệt độ cơ thể.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:17:36.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3e3b7ed6307f056c677f"
+  },
+  "cate_name": "Khẩu trang",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Bảo vệ khỏi bụi mịn, vi khuẩn.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:17:47.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684d3e5f7ed6307f056c6784"
+  },
+  "cate_name": "Máy tạo nước khử khuẩn",
+  "parent_category_id": {
+    "$oid": "684d1a21dc0d9da5098e4ef0"
+  },
+  "cate_description": "Sản xuất dung dịch khử trùng tự nhiên.",
+  "cate_created_at": {
+    "$date": "2025-06-14T09:18:23.268Z"
+  },
+  "__v": 0
+}]
